@@ -15,7 +15,7 @@
     "react": "18.3.0-canary-0cdfef19b-20231211",
     "react-dom": "18.3.0-canary-0cdfef19b-20231211",
     "react-server-dom-webpack": "18.3.0-canary-0cdfef19b-20231211",
-    "vite-plugin-stylex": "file:../vite-plugin-stylex/packages/vite-plugin-stylex",
+    "vite-plugin-stylex": "0.4.0",
     "waku": "0.18.1"
   },
   "devDependencies": {
